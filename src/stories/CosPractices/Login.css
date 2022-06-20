@@ -1,0 +1,15 @@
+.error-message{
+    margin-top: 0.25rem;
+    width: 100%;
+    font-size: .875em;
+    color: #dc3545;
+  }
+  
+  .google-signin{
+    width: 200px;
+    /* background-color: #0077d6 !important; */
+    color: rgb(255 255 255) !important;
+  }
+  .sign-with-linkedin img{
+    width: 200px;
+  }
